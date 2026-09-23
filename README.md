@@ -61,15 +61,6 @@
 - [score-prediction-analysis](https://github.com/vosnuev/score-prediction-analysis): 6,607건 데이터 기반 학생 성적 예측 분석 수행
 - [toeic-flashcards](https://github.com/vosnuev/toeic-flashcards): 토익 단어 플래시카드 PWA 구현
 
-## GitHub Stats
-
-<div align="center">
-
-![vosnuev's GitHub stats](https://github-readme-stats.vercel.app/api?username=vosnuev&show_icons=true&theme=default&hide_border=true&rank_icon=github)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vosnuev&layout=compact&hide_border=true)
-
-</div>
 
 ## Focus
 
