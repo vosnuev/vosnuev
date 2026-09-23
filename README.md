@@ -1,6 +1,6 @@
 <div align="center">
 
-# vosnuev
+# 전하영
 
 ### LLM Agent, RAG, 현장 문제를 시스템으로 바꾸는 AI 엔지니어
 
