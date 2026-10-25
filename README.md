@@ -4,8 +4,8 @@
 
 ### 현장의 복잡함을 사용 가능한 시스템으로 바꾸는 사람
 
-교직 현장에서 반복되는 문제를 직접 발견하고 해결해 온 경험을 바탕으로,  
-지금은 AI 기능을 데이터 흐름·백엔드·평가·실패 처리까지 연결하고 있습니다.
+교직에서 반복되는 문제를 직접 발견하고 해결해 온 경험을 바탕으로,  
+AI 기능을 데이터 흐름·백엔드·평가·실패 처리까지 연결하고 있습니다.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=githubpages&logoColor=white)](https://github.com/vosnuev/portfolio)
 [![Attendance](https://img.shields.io/badge/Attendance-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://school-connect-attendance-2013abfd.base44.app/)
